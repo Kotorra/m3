@@ -16,4 +16,5 @@ for k in palabramutilada:
 	print("La consonante "+k+" tiene la posicion "+str(posicion[aux1])+".")
 	aux1+=1
 
+print(f"La palabra sin vocales queda así: {palabramutilada}")
 
